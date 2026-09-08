@@ -1,0 +1,28 @@
+{
+  "project": {
+    "name": "AuroraStore",
+    "source": "/home/server/Projects/All-Codex-Projects/Windows11/2026-09-02/tu-saurais-compile/work/AuroraStore-src/AuroraStore-master",
+    "owner": "freewildy",
+    "repository": "sauvegarde-ubuntu-aurorastore",
+    "visibility": "private",
+    "status": "not_uploaded"
+  },
+  "stats": {
+    "generated_or_tool_cache": 2,
+    "files": 1461,
+    "bytes": 7827628,
+    "machine_or_credentials": 1,
+    "key_or_certificate": 2
+  },
+  "omissions": [
+    {
+      "path": "app/testkey.jks",
+      "reason": "key_or_certificate"
+    },
+    {
+      "path": "app/src/main/res/raw/google_roots_ca.pem",
+      "reason": "key_or_certificate"
+    }
+  ],
+  "scope": "Current source files; original Git history stays local. Build caches, binaries, archives and credentials excluded."
+}
